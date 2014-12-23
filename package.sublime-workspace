@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"page"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border-bottom",
+				"border-bottom-right-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Node/app.js",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Node/Views/default.ejs",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 14,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/app.js",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Views/default.ejs",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Views/partials/page/head.ejs",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/routes/index.js",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Hello.js",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Views/partials/page/header.ejs",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Views/partials/page/footer.ejs",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/package.json",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/Node/Views/partials/page/jsdefaults.ejs",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/package.json",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/node_modules/jade/jade.js",
+		"/C/Users/saikiran.p/Documents/GitHub/Node.js-With-Express.js/node_modules/express/lib/express.js",
+		"/C/Users/saikiran.p/Desktop/Practice Web/WorkFlow",
+		"/C/Users/saikiran.p/Desktop/Practice Web/TenantData",
+		"/C/Users/saikiran.p/Desktop/Practice Web/Address",
+		"/C/Users/saikiran.p/Desktop/Practice Web/BouncingBall.html",
+		"/C/Users/saikiran.p/Desktop/Practice Web/style2.css",
+		"/C/Users/saikiran.p/Desktop/Practice Web/index.html",
+		"/C/Users/saikiran.p/Desktop/Practice Web/style.css",
+		"/C/Users/saikiran.p/Desktop/Practice Web/page.css",
+		"/C/Users/saikiran.p/Desktop/Practice Web/teamindex.html",
+		"/C/Users/saikiran.p/Desktop/Practice Web/main.css",
+		"/C/Users/saikiran.p/Downloads/css3-gradients-linear-gradients/css3-gradients-linear-gradients/css/page.css",
+		"/C/Users/saikiran.p/Downloads/css3-borders-border-image/css3-borders-border-image/css/page.css",
+		"/C/Users/saikiran.p/Desktop/Practice Web/page1.css",
+		"/C/Users/saikiran.p/Downloads/css3-borders-border-image/css3-borders-border-image/index.html",
+		"/C/Users/saikiran.p/Documents/GitHub/XYz/page2.html",
+		"/C/Users/saikiran.p/Documents/hello/platforms/wp8/www/page2.html",
+		"/C/Users/saikiran.p/Documents/hello/platforms/wp8/www/index.html",
+		"/C/Users/saikiran.p/Documents/GitHub/XYz/index.html",
+		"/C/Users/saikiran.p/Documents/hello/platforms/wp8/www/css/index.css",
+		"/C/Users/saikiran.p/Documents/GitHub/XYz/index.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"default.ejs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Node/app.js",
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Node/Views/default.ejs",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}
